@@ -161,7 +161,7 @@ h5 {
   }
 
   .header__home {
-    background-image: url(/img/backgraund.png);
+    background-image: url(./img/backgraund.png);
     height: 586px;
     max-width: 100%;
     background-position: center center;
