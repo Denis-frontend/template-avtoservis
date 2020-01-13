@@ -59,8 +59,12 @@ h5 {
   .wrap__contact {
     padding-bottom: 70px;
   }
-  a.navbar-brand {
+ a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo-orange.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -931,8 +935,12 @@ h5.card-title__services a:hover {
   .wrap__contact {
     padding-bottom: 70px;
   }
-  a.navbar-brand {
+ a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo-orange.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -1801,8 +1809,12 @@ h5.card-title__services a:hover {
   .wrap__contact {
     padding-bottom: 70px;
   }
-  a.navbar-brand {
+ a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo-orange.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -2677,8 +2689,12 @@ h5.card-title__services a:hover {
   .wrap__contact {
     padding-bottom: 50px;
   }
-  a.navbar-brand {
+ a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo-orange.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -3546,8 +3562,12 @@ h5.card-title__services a:hover {
   .wrap__contact {
     padding-bottom: 70px;
   }
-  a.navbar-brand {
+ a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo-orange.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
