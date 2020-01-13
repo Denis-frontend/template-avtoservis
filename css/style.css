@@ -61,6 +61,10 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -933,6 +937,10 @@ h5.card-title__services a:hover {
   }
   a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -1803,6 +1811,10 @@ h5.card-title__services a:hover {
   }
   a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -3552,6 +3564,10 @@ h5.card-title__services a:hover {
   }
   a.navbar-brand {
     margin: 0;
+    background-image: url(../img/logo.png);
+    width: 100%;
+    height: 70px;
+    background-repeat: no-repeat;
   }
 
   .logo {
@@ -3667,7 +3683,7 @@ h5.card-title__services a:hover {
 
   .nav__position {
     position: absolute;
-    top: 210px;
+    top: 180px;
     max-width: 100%;
   }
   .features {
