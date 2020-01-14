@@ -642,7 +642,7 @@ h5.card-title__services a:hover {
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 100px;
+    margin-right: 200px;
   }
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -863,7 +863,6 @@ h5.card-title__services a:hover {
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 41px;
   }
 
   label {
@@ -1733,7 +1732,6 @@ h5.card-title__services a:hover {
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 41px;
   }
 
   label {
@@ -2609,7 +2607,6 @@ h5.card-title__services a:hover {
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 45px;
   }
 
   label {
