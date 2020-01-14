@@ -50,8 +50,6 @@ h5 {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -99,7 +97,7 @@ h5 {
   }
 
   .contacts li {
-    font-size: 29px;
+    font-size: 17px;
     color: #232323;
     padding-right: 1px;
   }
@@ -545,7 +543,7 @@ h5.card-title__services a:hover {
   }
 
   .card__articles {
-    width: 400px;
+    width: 350px;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -644,7 +642,7 @@ h5.card-title__services a:hover {
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 116px;
+    margin-right: 100px;
   }
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -818,7 +816,7 @@ h5.card-title__services a:hover {
 
   /* форма */
   .card__form {
-    width: 382px;
+    max-width: 382px;
     height: 382px;
     background: #ededed;
     border: 1px solid #46b1d0;
@@ -851,7 +849,7 @@ h5.card-title__services a:hover {
 
   input[type="text"],
   input[type="tel"] {
-    width: 300.94px;
+    max-width: 300.94px;
     height: 33.08px;
     background: #ffffff;
     border: 0;
@@ -926,8 +924,6 @@ h5.card-title__services a:hover {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -974,7 +970,7 @@ h5.card-title__services a:hover {
   }
 
   .contacts li {
-    font-size: 42px;
+    font-size: 32px;
     color: #232323;
     padding-right: 1px;
   }
@@ -1051,7 +1047,6 @@ h5.card-title__services a:hover {
   }
 
   button.navbar-toggler {
-    margin-left: 30px;
     margin-bottom: 30px;
   }
 
@@ -1800,8 +1795,6 @@ h5.card-title__services a:hover {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -2450,7 +2443,7 @@ h5.card-title__services a:hover {
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 430px;
+    margin-right: 420px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
@@ -2616,7 +2609,7 @@ h5.card-title__services a:hover {
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 41px;
+    margin-left: 45px;
   }
 
   label {
@@ -2680,8 +2673,6 @@ h5.card-title__services a:hover {
   .container {
     min-width: 992px;
     width: 100%;
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -2724,7 +2715,7 @@ h5.card-title__services a:hover {
   }
 
   .contacts li {
-    font-size: 18px;
+    font-size: 17px;
     color: #232323;
     padding-right: 1px;
   }
@@ -2771,8 +2762,8 @@ h5.card-title__services a:hover {
   }
 
   li.nav-item {
-    padding-right: 12px;
-    padding-left: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
 
   .nav-link:hover {
@@ -2808,7 +2799,7 @@ h5.card-title__services a:hover {
   }
 
   .features {
-    max-width: 550px;
+    max-width: 540px;
     height: 222px;
     background: #ededed;
     padding: 40px;
@@ -3323,7 +3314,7 @@ h5.card-title__services a:hover {
   .checkbox {
     margin-top: 13px;
     margin-bottom: 95px;
-    margin-right: 71px;
+    margin-right: 43px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
@@ -3490,7 +3481,6 @@ h5.card-title__services a:hover {
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 41px;
   }
 
   label {
@@ -3551,10 +3541,7 @@ h5.card-title__services a:hover {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    min-width: 1240px;
     width: 100%;
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -3597,7 +3584,7 @@ h5.card-title__services a:hover {
   }
 
   .contacts li {
-    font-size: 24px;
+    font-size: 21px;
     color: #232323;
     padding-right: 1px;
   }
@@ -3643,8 +3630,8 @@ h5.card-title__services a:hover {
   }
 
   li.nav-item {
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 25px;
+    padding-left: 25px;
   }
 
   .nav-link:hover {
@@ -3687,7 +3674,7 @@ h5.card-title__services a:hover {
     max-width: 100%;
   }
   .features {
-    max-width: 686px;
+    max-width: 615px;
     height: 222px;
     background: #ededed;
     margin-top: 118px;
@@ -3697,7 +3684,7 @@ h5.card-title__services a:hover {
 
   .features__title {
     font-weight: bold;
-    font-size: 48px;
+    font-size: 42px;
   }
 
   .features__subtitle {
@@ -3902,7 +3889,7 @@ h5.card-title__services a:hover {
   }
 
   .our-works__block {
-    margin-left: 30px;
+    margin-left: 15px;
     margin-bottom: 50px;
   }
 
@@ -3914,7 +3901,7 @@ h5.card-title__services a:hover {
   }
 
   .our-works__desc {
-    width: 249px;
+    width: 237px;
     font-size: 14px;
     line-height: 140%;
     color: #4f4c4c;
@@ -3928,9 +3915,9 @@ h5.card-title__services a:hover {
     color: #fff;
     font-size: 18px;
     text-align: center;
-    margin-top: 18px;
-    padding: 11px;
-    width: 249px;
+    margin-top: 3px;
+    padding: 10px;
+    width: 225;
   }
 
   .our-works_btn:hover {
@@ -4008,7 +3995,7 @@ h5.card-title__services a:hover {
   }
 
   .card__articles {
-    width: 384px;
+    width: 354px;
     height: 574px;
     border-radius: 0;
     border: 0;
@@ -4081,24 +4068,24 @@ h5.card-title__services a:hover {
 
   .card-body__form input[type="text"],
   .card-body__form input[type="tel"] {
-    width: 360px;
+    width: 330px;
     height: 61px;
     background: #efeded;
     border: 0;
     border-radius: 15px;
     font-size: 14px;
     padding: 26px 52px;
-    margin-left: 20px;
-    margin-right: 60px;
+    margin-left: 10px;
+    margin-right: 45px;
   }
 
   .card-body__form input[type="tel"] {
     margin-left: 0;
-    margin-right: 60px;
+    margin-right: 45px;
   }
 
   .form__btn {
-    width: 361px;
+    width: 330px;
     height: 61px;
     background: #46b1d0;
     border: 0;
