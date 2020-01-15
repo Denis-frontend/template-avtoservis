@@ -9,7 +9,7 @@ h5 {
   margin: 0;
 }
 
-@media (max-width: 575.98px)  {
+@media (max-width: 575.98px) {
   /*\\\\\\\\\ кнопки переключения \\\\\\\\ */
   .mixer {
     width: 20px;
@@ -210,41 +210,41 @@ h5 {
     font-size: 30px;
     padding-top: 5px;
   }
-/* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
-.services {
-  margin-top: 46px;
-}
+  /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
+  .services {
+    margin-top: 46px;
+  }
 
-.row.services__wrap {
-  margin-bottom: 50px;
-}
+  .row.services__wrap {
+    margin-bottom: 50px;
+  }
 
-.card__services {
-  max-width: 360px;
-  height: 341px;
-  border: 0;
-  margin: 0;
-  margin: 0 auto;
-}
+  .card__services {
+    max-width: 360px;
+    height: 341px;
+    border: 0;
+    margin: 0;
+    margin: 0 auto;
+  }
 
-h5.card-title__services {
-  margin-top: 30px;
-  margin-bottom: 50px;
-}
+  h5.card-title__services {
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
 
-h5.card-title__services a {
-  font-weight: bold;
-  font-size: 24px;
-  color: #4f4c4c;
-}
+  h5.card-title__services a {
+    font-weight: bold;
+    font-size: 24px;
+    color: #4f4c4c;
+  }
 
-h5.card-title__services a:hover {
-  font-weight: bold;
-  font-size: 24px;
-  color: #4f4c4c;
-  padding-top: 30px;
-  text-decoration: none;
-}
+  h5.card-title__services a:hover {
+    font-weight: bold;
+    font-size: 24px;
+    color: #4f4c4c;
+    padding-top: 30px;
+    text-decoration: none;
+  }
 
   /*\\\\\\\\\ о компании \\\\\\\\\ */
 
@@ -533,6 +533,10 @@ h5.card-title__services a:hover {
     text-decoration: none;
     color: #fff;
   }
+
+  .our-works-text-center {
+    text-align: center;
+}
   /* \\\\\\\\\\\\\ статьи \\\\\\\\\\\\\\\\\\ */
   .wrap__articles {
     padding-bottom: 50px;
@@ -624,7 +628,7 @@ h5.card-title__services a:hover {
     border-radius: 15px;
     font-size: 14px;
     padding: 26px 52px;
-    margin: 20px ;
+    margin: 20px;
   }
 
   .form__btn {
@@ -1326,7 +1330,6 @@ h5.card-title__services a:hover {
   }
 
   .our-works__block {
-    margin-left: 30px;
     margin-bottom: 50px;
   }
 
@@ -1364,6 +1367,9 @@ h5.card-title__services a:hover {
     color: #fff;
   }
 
+  .our-works-text-center {
+    text-align: center;
+  }
   /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
   .services {
     margin-top: 46px;
@@ -3362,6 +3368,11 @@ h5.card-title__services a:hover {
     color: #ffffff;
   }
 
+    a.footer-tel {
+      margin-left: 24px;
+  }
+ 
+
   .footer__logo a {
     font-size: 13px;
     color: #fff;
@@ -4138,15 +4149,18 @@ h5.card-title__services a:hover {
   }
 
   .footer__address ul li {
-    font-size: 20px;
+    font-size: 17px;
     color: #ffffff;
-    padding-left: 15px;
   }
 
   .footer__address ul li a {
     font-size: 18px;
     color: #ffffff;
   }
+
+  a.footer-tel {
+    margin-left: 33px;
+}
 
   .footer__logo a {
     font-size: 13px;
