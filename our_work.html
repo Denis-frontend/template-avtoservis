@@ -150,15 +150,15 @@
   <div class="container">
     <h2 class="h2__title">Наши работы</h2>
     <div class="row our-works__wrapper">
-      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-xl-flex d-lg-flex">
+      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-lg-flex d-xl-flex">
         <div class="img__max">
           <img id="goods-max" src="img/image_17.png" alt="">
         </div>
         <div class="img__min">
-          <div><img class="goods-min" src="img/image_17.png" alt=""></div>
-          <div><img class="goods-min"src="img/img-3.png" alt=""></div>
-          <div><img class="goods-min" src="img/img-4.png" alt=""></div>
-          <div class="active"><img class="goods-min" src="img/img-5.png" alt=""></div>
+          <div class="wrap__img__min"><img class="goods-min" src="img/image_17.png" alt=""></div>
+          <div class="wrap__img__min"><img class="goods-min"src="img/img-3.png" alt=""></div>
+          <div class="wrap__img__min"><img class="goods-min" src="img/img-4.png" alt=""></div>
+          <div class="active wrap__img__min"><img class="goods-min" src="img/img-5.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-12 col-lg-6 col-xl-6">
@@ -185,12 +185,12 @@
         <div class="price">
           <h4>Цена:</h4>
           <p>35 000 руб</p>
-          <button class="price__btn">Хочу также</button>
+          <button class="price__btn float-right">Хочу также</button>
         </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-xl-flex d-lg-flex">
+      <div class="our-works-text-center col-md-12 col-lg-6 col-xl-6 d-md-flex d-xl-flex d-lg-flex ">
         <img class="our-works__thumbnail" src="img/slider.png" alt="" />
         <div class="our-works__block">
           <h5 class="our-works__text">Ремонт</h5>
@@ -200,10 +200,10 @@
             изделия устаревают морально гораздо раньше, чем вырабатывается
             их ресурс до ремонта.
           </p>
-          <button class="our-works_btn">Хочу также</button>
+          <a href="articles.html" class="our-works_btn">Подробнее</a>
         </div>
       </div>
-      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-xl-flex d-lg-flex">
+      <div class="our-works-text-center col-md-12 col-lg-6 col-xl-6 d-md-flex d-xl-flex d-lg-flex ">
         <img class="our-works__thumbnail" src="img/slider.png" alt="" />
         <div class="our-works__block">
           <h5 class="our-works__text">Ремонт</h5>
@@ -213,13 +213,13 @@
             изделия устаревают морально гораздо раньше, чем вырабатывается
             их ресурс до ремонта.
           </p>
-          <button class="our-works_btn">Хочу также</button>
+          <a href="articles.html" class="our-works_btn">Подробнее</a>
         </div>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-xl-flex d-lg-flex">
+      <div class="our-works-text-center col-md-12 col-lg-6 col-xl-6 d-md-flex d-xl-flex d-lg-flex ">
         <img class="our-works__thumbnail" src="img/slider.png" alt="" />
         <div class="our-works__block">
           <h5 class="our-works__text">Ремонт</h5>
@@ -229,10 +229,10 @@
             изделия устаревают морально гораздо раньше, чем вырабатывается
             их ресурс до ремонта.
           </p>
-          <button class="our-works_btn">Хочу также</button>
+          <a href="articles.html" class="our-works_btn">Подробнее</a>
         </div>
       </div>
-      <div class="col-md-12 col-lg-6 col-xl-6 d-sm-flex d-md-flex d-xl-flex d-lg-flex">
+      <div class="our-works-text-center col-md-12 col-lg-6 col-xl-6 d-md-flex d-xl-flex d-lg-flex ">
         <img class="our-works__thumbnail" src="img/slider.png" alt="" />
         <div class="our-works__block">
           <h5 class="our-works__text">Ремонт</h5>
@@ -242,7 +242,7 @@
             изделия устаревают морально гораздо раньше, чем вырабатывается
             их ресурс до ремонта.
           </p>
-          <button class="our-works_btn">Хочу также</button>
+          <a href="articles.html" class="our-works_btn">Подробнее</a>
         </div>
       </div>
     </div>
@@ -253,39 +253,37 @@
     </div>
   </div>
 </section>
-
  <!--\\\\\\\\\\\\\\\\\\\\ Остались вопросы? \\\\\\\\\\\\\\ -->
 
  <section class="form">
-      <div class="container">
-        <h2 class="h2__title">Остались вопросы?</h2>
-        <div class="row">
-          <div class="col-xl-12">
-            <div class="card form__card">
-              <div class="card-body card-body__form">
-                <form action="" method="post">
-                  <input type="text" name="" id="" placeholder="Ваше имя" />
-                  <input
-                    type="tel"
-                    name=""
-                    id=""
-                    placeholder="Ваш номер телефона"
-                  />
-                  <button class="form__btn">Получить консультацию</button>
-                  <div class="checkbox text-right">
-                    <input type="checkbox" name="" id="" />
-                    <label for="checkbox-id"
-                      >Я согласен на обработку персональных данных</label
-                    >
-                  </div>
-                </form>
+  <div class="container">
+    <h2 class="h2__title">Остались вопросы?</h2>
+    <div class="row no-gutters">
+      <div class="col-xl-12">
+        <div class="card form__card">
+          <div class="card-body card-body__form">
+            <form action="" method="post">
+              <input type="text" name="" id="" placeholder="Ваше имя" />
+              <input
+                type="tel"
+                name=""
+                id=""
+                placeholder="Ваш номер телефона"
+              />
+              <button class="form__btn">Получить консультацию</button>
+              <div class="checkbox text-right">
+                <input type="checkbox" name="" id="" />
+                <label for="checkbox-id"
+                  >Я согласен на обработку персональных данных</label
+                >
               </div>
-            </div>
+            </form>
           </div>
         </div>
       </div>
-    </section>
-
+    </div>
+  </div>
+</section>
 <!-- \\\\\\\\\\\\\\\\ footer \\\\\\\\\\\\\ -->
 
 <footer class="footer">
@@ -311,7 +309,7 @@
       </div>
       <div class="col-md-12 col-lg-2 col-xl-2 footer__address">
         <ul class="p-0 p-sm-0 p-md-0 p-lg-0 p-xl-0 d-flex">
-          <li><a href="tel:+(8452) 472-622 ">+79272773863</a></li>
+          <li><a class="footer-tel"  href="tel:+(8452) 472-622 ">+79272773863</a></li>
         </ul>
       </div>
       <div class="col-lg-3 col-xl-3 footer__logo d-flex">
