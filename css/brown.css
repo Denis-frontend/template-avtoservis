@@ -9,7 +9,7 @@ h5 {
   margin: 0;
 }
 
-@media (max-width: 575.98px) {
+@media (max-width: 575.98px)  {
   /*\\\\\\\\\ кнопки переключения \\\\\\\\ */
   .mixer {
     width: 20px;
@@ -50,8 +50,6 @@ h5 {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -59,7 +57,7 @@ h5 {
   .wrap__contact {
     padding-bottom: 70px;
   }
-a.navbar-brand {
+  a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-brown.png);
     width: 100%;
@@ -99,7 +97,7 @@ a.navbar-brand {
   }
 
   .contacts li {
-    font-size: 29px;
+    font-size: 17px;
     color: #232323;
     padding-right: 1px;
   }
@@ -475,7 +473,6 @@ h5.card-title__services a:hover {
   .our-works__thumbnail {
     max-width: 100%;
     height: 276px;
-    margin-left: 30px;
   }
   .our-works_btn_slider {
     display: block;
@@ -507,15 +504,16 @@ h5.card-title__services a:hover {
     font-weight: bold;
     font-size: 32px;
     color: #4f4c4c;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    text-align: center;
   }
 
   .our-works__desc {
-    width: 200px;
     font-size: 14px;
     line-height: 140%;
     color: #4f4c4c;
+    padding-bottom: 20px;
   }
 
   .our-works_btn {
@@ -526,7 +524,7 @@ h5.card-title__services a:hover {
     color: #fff;
     font-size: 18px;
     text-align: center;
-    margin-top: 16px;
+    margin: 16px auto;
     padding: 7px;
     width: 192px;
   }
@@ -545,7 +543,7 @@ h5.card-title__services a:hover {
   }
 
   .card__articles {
-    width: 400px;
+    width: 350px;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -626,11 +624,11 @@ h5.card-title__services a:hover {
     border-radius: 15px;
     font-size: 14px;
     padding: 26px 52px;
-    margin: 20px auto;
+    margin: 20px ;
   }
 
   .form__btn {
-    width: 360px;
+    width: 300px;
     height: 61px;
     background: #C5A86F;
     border: 0;
@@ -638,13 +636,13 @@ h5.card-title__services a:hover {
     color: #fff;
     font-size: 18px;
     text-align: center;
-    margin-top: 30px;
+    margin: 20px;
   }
 
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 116px;
+    margin-right: 120px;
   }
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -720,8 +718,8 @@ h5.card-title__services a:hover {
   }
 
   .slider__img {
-    width: 294px;
-    height: 212px;
+    width: 235px;
+    height: 169px;
     margin: 0 auto;
   }
 
@@ -818,7 +816,7 @@ h5.card-title__services a:hover {
 
   /* форма */
   .card__form {
-    width: 382px;
+    max-width: 382px;
     height: 382px;
     background: #ededed;
     border: 1px solid #C5A86F;
@@ -851,7 +849,7 @@ h5.card-title__services a:hover {
 
   input[type="text"],
   input[type="tel"] {
-    width: 300.94px;
+    max-width: 300.94px;
     height: 33.08px;
     background: #ffffff;
     border: 0;
@@ -861,6 +859,7 @@ h5.card-title__services a:hover {
     margin-left: 41px;
     margin-right: 41px;
     margin-bottom: 20px;
+    display: block;
   }
 
   input[type="checkbox"] {
@@ -926,8 +925,6 @@ h5.card-title__services a:hover {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -935,7 +932,7 @@ h5.card-title__services a:hover {
   .wrap__contact {
     padding-bottom: 70px;
   }
-a.navbar-brand {
+  a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-brown.png);
     width: 100%;
@@ -974,7 +971,7 @@ a.navbar-brand {
   }
 
   .contacts li {
-    font-size: 42px;
+    font-size: 32px;
     color: #232323;
     padding-right: 1px;
   }
@@ -1051,7 +1048,6 @@ a.navbar-brand {
   }
 
   button.navbar-toggler {
-    margin-left: 30px;
     margin-bottom: 30px;
   }
 
@@ -1339,13 +1335,15 @@ a.navbar-brand {
     font-size: 32px;
     color: #4f4c4c;
     padding-bottom: 10px;
+    padding-top: 20px;
+    text-align: center;
   }
 
   .our-works__desc {
-    width: 200px;
     font-size: 14px;
     line-height: 140%;
     color: #4f4c4c;
+    padding-bottom: 20px;
   }
 
   .our-works_btn {
@@ -1577,7 +1575,7 @@ a.navbar-brand {
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 250px;
+    margin-right: 220px;
   }
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -1800,8 +1798,6 @@ a.navbar-brand {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -1809,7 +1805,7 @@ a.navbar-brand {
   .wrap__contact {
     padding-bottom: 70px;
   }
-a.navbar-brand {
+  a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-brown.png);
     width: 100%;
@@ -2294,8 +2290,8 @@ a.navbar-brand {
   }
 
   .slider__img {
-    width: 218px;
-    height: 137px;
+    width: 273px;
+    height: 197px;
     margin: 0 auto;
   }
 
@@ -2450,7 +2446,7 @@ a.navbar-brand {
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 430px;
+    margin-right: 400px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
@@ -2680,8 +2676,6 @@ a.navbar-brand {
   .container {
     min-width: 992px;
     width: 100%;
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -2689,7 +2683,7 @@ a.navbar-brand {
   .wrap__contact {
     padding-bottom: 50px;
   }
-a.navbar-brand {
+  a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-brown.png);
     width: 100%;
@@ -2724,7 +2718,7 @@ a.navbar-brand {
   }
 
   .contacts li {
-    font-size: 18px;
+    font-size: 17px;
     color: #232323;
     padding-right: 1px;
   }
@@ -2735,7 +2729,7 @@ a.navbar-brand {
 
   li.search {
     padding: 0;
-    margin-left: auto;
+    margin-left: 52px;
   }
 
   ul li a {
@@ -2771,8 +2765,8 @@ a.navbar-brand {
   }
 
   li.nav-item {
-    padding-right: 12px;
-    padding-left: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
 
   .nav-link:hover {
@@ -2808,7 +2802,7 @@ a.navbar-brand {
   }
 
   .features {
-    max-width: 550px;
+    max-width: 540px;
     height: 222px;
     background: #ededed;
     padding: 40px;
@@ -3323,7 +3317,7 @@ a.navbar-brand {
   .checkbox {
     margin-top: 13px;
     margin-bottom: 95px;
-    margin-right: 71px;
+    margin-right: 43px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
@@ -3551,10 +3545,7 @@ a.navbar-brand {
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
   .container {
-    min-width: 1240px;
     width: 100%;
-    padding-right: 0;
-    padding-left: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -3562,7 +3553,7 @@ a.navbar-brand {
   .wrap__contact {
     padding-bottom: 70px;
   }
-a.navbar-brand {
+  a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-brown.png);
     width: 100%;
@@ -3597,7 +3588,7 @@ a.navbar-brand {
   }
 
   .contacts li {
-    font-size: 24px;
+    font-size: 21px;
     color: #232323;
     padding-right: 1px;
   }
@@ -3607,7 +3598,7 @@ a.navbar-brand {
   }
 
   li.search {
-    margin-left: 30px;
+    margin-left: 94px;
   }
 
   ul li a {
@@ -3643,8 +3634,8 @@ a.navbar-brand {
   }
 
   li.nav-item {
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 25px;
+    padding-left: 25px;
   }
 
   .nav-link:hover {
@@ -3687,7 +3678,7 @@ a.navbar-brand {
     max-width: 100%;
   }
   .features {
-    max-width: 686px;
+    max-width: 615px;
     height: 222px;
     background: #ededed;
     margin-top: 118px;
@@ -3697,7 +3688,7 @@ a.navbar-brand {
 
   .features__title {
     font-weight: bold;
-    font-size: 48px;
+    font-size: 42px;
   }
 
   .features__subtitle {
@@ -3902,7 +3893,7 @@ a.navbar-brand {
   }
 
   .our-works__block {
-    margin-left: 30px;
+    margin-left: 15px;
     margin-bottom: 50px;
   }
 
@@ -3914,7 +3905,7 @@ a.navbar-brand {
   }
 
   .our-works__desc {
-    width: 249px;
+    width: 237px;
     font-size: 14px;
     line-height: 140%;
     color: #4f4c4c;
@@ -3928,9 +3919,9 @@ a.navbar-brand {
     color: #fff;
     font-size: 18px;
     text-align: center;
-    margin-top: 18px;
-    padding: 11px;
-    width: 249px;
+    margin-top: 3px;
+    padding: 10px;
+    width: 225;
   }
 
   .our-works_btn:hover {
@@ -3953,8 +3944,8 @@ a.navbar-brand {
   }
 
   .slider__img {
-    width: 390px;
-    height: 282px;
+    width: 351px;
+    height: 253px;
     margin: 0 auto;
   }
 
@@ -4008,7 +3999,7 @@ a.navbar-brand {
   }
 
   .card__articles {
-    width: 384px;
+    width: 354px;
     height: 574px;
     border-radius: 0;
     border: 0;
@@ -4081,24 +4072,24 @@ a.navbar-brand {
 
   .card-body__form input[type="text"],
   .card-body__form input[type="tel"] {
-    width: 360px;
+    width: 330px;
     height: 61px;
     background: #efeded;
     border: 0;
     border-radius: 15px;
     font-size: 14px;
     padding: 26px 52px;
-    margin-left: 20px;
-    margin-right: 60px;
+    margin-left: 10px;
+    margin-right: 45px;
   }
 
   .card-body__form input[type="tel"] {
     margin-left: 0;
-    margin-right: 60px;
+    margin-right: 45px;
   }
 
   .form__btn {
-    width: 361px;
+    width: 330px;
     height: 61px;
     background: #C5A86F;
     border: 0;
