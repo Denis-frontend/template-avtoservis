@@ -55,7 +55,7 @@ h5 {
   }
 
   .wrap__contact {
-    padding-bottom: 70px;
+    padding-bottom: 20px;
   }
   a.navbar-brand {
     margin: 0;
@@ -75,20 +75,19 @@ h5 {
 
   i.fas,
   i.far {
-    font-size: 30px;
+    font-size: 6vh;
     color: #fff;
     background: #46b1d0;
     border-radius: 100%;
-    width: 60px;
-    height: 60px;
-    padding-left: 15px;
-    padding-top: 16px;
-    margin-right: 10px;
+    width: 10vh;
+    height: 10vh;
+    padding-left: 10px;
+    padding-top: 9px;
+    margin-right: 6px;
   }
 
   ul.main {
-    margin-top: 30px;
-    margin-left: 30px;
+    margin-top: 20px;
     padding: 0px;
   }
 
@@ -125,7 +124,7 @@ h5 {
   }
 
   li.address i {
-    padding-left: 19px;
+    padding-left: 10px;
   }
 
   .navbar {
@@ -182,13 +181,12 @@ h5 {
   }
 
   button.navbar-toggler {
-    margin-left: 30px;
     margin-bottom: 30px;
   }
 
   span.navbar-toggler-icon {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 40px;
   }
 
   .features {
@@ -202,12 +200,12 @@ h5 {
 
   .features__title {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 8vh;
   }
 
   .features__subtitle {
     color: #4f4c4c;
-    font-size: 30px;
+    font-size: 6vh;
     padding-top: 5px;
   }
   /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
@@ -270,7 +268,6 @@ h5 {
   /* \\\\\\\\\\\галерея\\\\\\\\\\ */
   .card-body__gallery {
     position: relative;
-    width: 360px;
     height: 300px;
     margin: 0 auto;
     margin-top: 50px;
@@ -284,8 +281,8 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 315.46px;
-    height: 254.54px;
+    width: 61vh;
+    height: 57vh;
     background: #ffffff;
     border: 1px solid #bfbfbf;
     box-sizing: border-box;
@@ -298,8 +295,8 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 314.52px;
-    height: 255.48px;
+    width: 61vh;
+    height: 57vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
@@ -310,8 +307,8 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 314.51px;
-    height: 255.47px;
+    width: 61vh;
+    height: 57vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
@@ -332,7 +329,7 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 255px;
+    height: auto;
   }
 
   .measure__title {
@@ -368,8 +365,8 @@ h5 {
   }
 
   img.goods-min {
-    width: 71px;
-    height: 71px;
+    width: 61px;
+    height: 61px;
   }
 
   img#goods-max {
@@ -387,7 +384,7 @@ h5 {
 
   .work {
     width: 162px;
-    margin-right: 30px;
+    margin-right: 3vh;
     margin-bottom: 77px;
     position: relative;
   }
@@ -412,7 +409,6 @@ h5 {
     font-weight: bold;
     font-size: 32px;
     color: #f2c877;
-    display: inline-block;
   }
 
   .price__btn {
@@ -443,7 +439,7 @@ h5 {
   }
 
   .button__greey {
-    margin-top: 50px;
+    margin-top: 1vh;
   }
 
   .our-works {
@@ -497,7 +493,6 @@ h5 {
   }
 
   .our-works__block {
-    margin-left: 30px;
     margin-bottom: 50px;
   }
 
@@ -544,11 +539,11 @@ h5 {
   }
 
   .wrap__articles__one {
-    padding-bottom: 100px;
+    padding-bottom: 14vh;
   }
 
   .card__articles {
-    width: 350px;
+    width: 69vh;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -589,8 +584,8 @@ h5 {
     font-size: 18px;
     text-align: center;
     padding: 11px;
-    width: 249px;
-    height: 49px;
+    width: 53vh;
+    height: auto;
   }
 
   .articles__btn:hover {
@@ -617,23 +612,21 @@ h5 {
   .form__card {
     border: 0;
     margin-top: 14px;
-    margin-left: 20px;
   }
 
   .card-body__form input[type="text"],
   .card-body__form input[type="tel"] {
-    width: 360px;
-    height: 61px;
+    width: 65vh;
+    height: auto;
     background: #efeded;
     border: 0;
     border-radius: 15px;
-    font-size: 14px;
+    font-size: 4vh;
     padding: 26px 52px;
-    margin: 20px;
   }
 
   .form__btn {
-    width: 300px;
+    width: 65vh;
     height: 61px;
     background: #46b1d0;
     border: 0;
@@ -641,13 +634,13 @@ h5 {
     color: #fff;
     font-size: 18px;
     text-align: center;
-    margin: 20px;
+    margin-left: 4vh;
   }
 
   .checkbox {
     margin-top: 30px;
     margin-bottom: 100px;
-    margin-right: 120px;
+    display: inline-block;
   }
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -671,11 +664,11 @@ h5 {
 
   .footer__social ul li {
     padding-right: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 2vh;
   }
 
   .footer__social i.fab {
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
   }
 
@@ -684,12 +677,12 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 26px;
+    font-size: 6vh;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 28px;
+    font-size: 6vh;
     color: #ffffff;
   }
 
@@ -787,13 +780,15 @@ h5 {
     font-weight: bold;
     font-size: 18px;
     color: #2b2e44;
-    margin-bottom: 41px;
+    margin-bottom: 3vh;
     margin-left: 5px;
   }
 
   .map {
-    margin-top: 64px;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
   }
+
 
   /*\\\\\\\\\\\\\ landing \\\\\\\\\\\ */
 
@@ -822,7 +817,7 @@ h5 {
   /* форма */
   .card__form {
     max-width: 382px;
-    height: 382px;
+    height: auto;
     background: #ededed;
     border: 1px solid #46b1d0;
     box-sizing: border-box;
@@ -861,15 +856,14 @@ h5 {
     border-radius: 15px;
     font-size: 14px;
     padding: 12px 22px;
-    margin-left: 41px;
-    margin-right: 41px;
     margin-bottom: 20px;
+    margin-left: 4vh;
     display: block;
   }
 
   input[type="checkbox"] {
     font-size: 15px;
-    margin-left: 41px;
+    margin-left: 4vh;
   }
 
   label {
@@ -878,15 +872,15 @@ h5 {
   }
 
   .btn__form {
-    position: absolute;
     width: 151px;
     height: 33.08px;
-    left: 110px;
-    bottom: -20px;
+    margin-left: 5vh;
+    margin-bottom: 5vh;
     background: #46b1d0;
     border: 0;
     border-radius: 10px;
     color: #fff;
+    margin-top: 5vh;
   }
 }
 
@@ -935,7 +929,7 @@ h5 {
   }
 
   .wrap__contact {
-    padding-bottom: 70px;
+    padding-bottom: 5vh;
   }
   a.navbar-brand {
     margin: 0;
@@ -967,7 +961,7 @@ h5 {
   }
 
   ul.main {
-    margin-top: 30px;
+    margin-top: 10px;
     padding: 0px;
   }
 
@@ -976,7 +970,7 @@ h5 {
   }
 
   .contacts li {
-    font-size: 32px;
+    font-size: 6vh;
     color: #232323;
     padding-right: 1px;
   }
@@ -1057,8 +1051,8 @@ h5 {
   }
 
   span.navbar-toggler-icon {
-    width: 90px;
-    height: 90px;
+    width: 50px;
+    height: 40px;
   }
 
   .features {
@@ -1167,7 +1161,7 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 219px;
+    height: auto;
   }
 
   .measure__title {
@@ -1256,6 +1250,7 @@ h5 {
     margin-top: 10px;
     padding: 11px 50px;
     max-width: 249px;
+    margin-left: 19vh;
   }
 
   .our-works__wrapper {
@@ -1508,7 +1503,7 @@ h5 {
   }
 
   .articles__btn {
-    margin-left: 30px;
+    margin-left: 16vh;
     margin-bottom: 40px;
     display: block;
     background: #46b1d0;
@@ -1591,7 +1586,7 @@ h5 {
 
   .footer__social p {
     font-weight: 500;
-    font-size: 36px;
+    font-size: 7vh;
     color: #ffffff;
     margin-top: 52px;
     margin-bottom: 32px;
@@ -1603,7 +1598,6 @@ h5 {
 
   .footer__social ul li {
     padding-right: 20px;
-    margin-bottom: 40px;
   }
 
   .footer__social i.fab {
@@ -1616,12 +1610,12 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
   }
 
@@ -1996,7 +1990,7 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 315.46px;
+    width: 65vh;
     height: 254.54px;
     background: #ffffff;
     border: 1px solid #bfbfbf;
@@ -2010,7 +2004,7 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 314.52px;
+    width: 65vh;
     height: 255.48px;
     left: 24px;
     top: 1px;
@@ -2022,7 +2016,7 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 314.51px;
+    width: 65vh;
     height: 255.47px;
     left: 24px;
     top: 1px;
@@ -2044,7 +2038,7 @@ h5 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 219px;
+    height: auto;
   }
 
   .measure__title {
@@ -2377,7 +2371,7 @@ h5 {
   }
 
   .articles__btn {
-    margin-left: 6px;
+    margin-left: 57px;
     margin-bottom: 20px;
     display: block;
     background: #46b1d0;
@@ -2459,7 +2453,7 @@ h5 {
 
   .footer__social p {
     font-weight: 500;
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
     margin-top: 52px;
     margin-bottom: 32px;
@@ -2471,11 +2465,10 @@ h5 {
 
   .footer__social ul li {
     padding-right: 20px;
-    margin-bottom: 40px;
   }
 
   .footer__social i.fab {
-    font-size: 42px;
+    font-size: 9vh;
     color: #ffffff;
   }
 
@@ -2484,12 +2477,12 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 42px;
+    font-size: 7vh;
     color: #ffffff;
   }
 
@@ -2509,7 +2502,7 @@ h5 {
 
   /*\\\\\\\\ Контакты \\\\\\\\*/
   .contacts__wrap {
-    margin: 64px 0 128px 33px;
+    margin: 64px 0 50px 33px;
   }
 
   .contacts__head {
@@ -2525,7 +2518,7 @@ h5 {
     font-family: "Roboto";
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 4vh;
     color: #2b2e44;
     margin-bottom: 41px;
     margin-left: 5px;
@@ -2571,6 +2564,7 @@ h5 {
 
   .card-body {
     padding: 0px;
+    margin-bottom: 10vh;
   }
 
   .card-title__form {
@@ -2861,7 +2855,7 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 315.46px;
+    width: 65vh;
     height: 254.54px;
     background: #ffffff;
     border: 1px solid #bfbfbf;
@@ -2875,7 +2869,7 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 314.52px;
+    width: 65vh;
     height: 255.48px;
     left: 24px;
     top: 1px;
@@ -2887,7 +2881,7 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 314.51px;
+    width: 65vh;
     height: 255.47px;
     left: 24px;
     top: 1px;
@@ -3240,7 +3234,7 @@ h5 {
   }
 
   .articles__btn {
-    margin-left: 6px;
+    margin-left: 25px;
     margin-bottom: 20px;
     display: block;
     background: #46b1d0;
@@ -3266,8 +3260,6 @@ h5 {
     border-radius: 10px;
     color: #4f4c4c;
     font-size: 18px;
-    margin-top: 416px;
-    margin-right: 80px;
   }
 
   /*  \\\\\\\\\\\\\\\\\ Остались вопросы? \\\\\\\\\\\\\\\ */
@@ -4061,7 +4053,7 @@ h5 {
     border-radius: 10px;
     color: #4f4c4c;
     font-size: 18px;
-    margin-top: 416px;
+    margin-top: 399px;
     margin-right: 80px;
   }
 
