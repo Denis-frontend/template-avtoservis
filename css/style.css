@@ -543,7 +543,7 @@ h5 {
   }
 
   .card__articles {
-    width: 40vh;
+    width: 280px;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -687,9 +687,9 @@ h5 {
   }
 
   .footer__logo a {
-    font-size: 14px;
+    font-size: 13px;
     color: #fff;
-    padding-top: 50px;
+    padding-top: 37px;
     padding-left: 15px;
   }
 
