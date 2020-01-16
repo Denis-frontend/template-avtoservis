@@ -75,12 +75,12 @@ h5 {
 
   i.fas,
   i.far {
-    font-size: 6vh;
+    ont-size: 3vh;
     color: #fff;
     background: #46b1d0;
     border-radius: 100%;
-    width: 10vh;
-    height: 10vh;
+    width: 6vh;
+    height: 6vh;
     padding-left: 10px;
     padding-top: 9px;
     margin-right: 6px;
@@ -200,12 +200,12 @@ h5 {
 
   .features__title {
     font-weight: bold;
-    font-size: 8vh;
+    font-size: 5vh;
   }
 
   .features__subtitle {
     color: #4f4c4c;
-    font-size: 6vh;
+    font-size: 4vh;
     padding-top: 5px;
   }
   /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
@@ -543,7 +543,7 @@ h5 {
   }
 
   .card__articles {
-    width: 69vh;
+    width: 48vh;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -584,7 +584,7 @@ h5 {
     font-size: 18px;
     text-align: center;
     padding: 11px;
-    width: 53vh;
+    width: 37vh;
     height: auto;
   }
 
@@ -677,12 +677,12 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 6vh;
+    font-size: 4vh;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 6vh;
+    font-size: 4vh;
     color: #ffffff;
   }
 
