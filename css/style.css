@@ -543,7 +543,7 @@ h5 {
   }
 
   .card__articles {
-    width: 48vh;
+    width: 40vh;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -584,7 +584,7 @@ h5 {
     font-size: 18px;
     text-align: center;
     padding: 11px;
-    width: 37vh;
+    width: 31vh;
     height: auto;
   }
 
@@ -621,12 +621,12 @@ h5 {
     background: #efeded;
     border: 0;
     border-radius: 15px;
-    font-size: 3vh;
+    font-size: 2vh;
     padding: 18px 52px;
   }
 
   .form__btn {
-    width: 47vh;
+    width: 37vh;
     height: 61px;
     background: #46b1d0;
     border: 0;
