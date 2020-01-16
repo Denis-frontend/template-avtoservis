@@ -621,8 +621,8 @@ h5 {
     background: #efeded;
     border: 0;
     border-radius: 15px;
-    font-size: 4vh;
-    padding: 26px 52px;
+    font-size: 3vh;
+    padding: 18px 52px;
   }
 
   .form__btn {
@@ -639,7 +639,7 @@ h5 {
 
   .checkbox {
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
     display: inline-block;
   }
 
@@ -668,7 +668,7 @@ h5 {
   }
 
   .footer__social i.fab {
-    font-size: 7vh;
+    font-size: 5vh;
     color: #ffffff;
   }
 
