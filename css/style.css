@@ -281,8 +281,8 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     background: #ffffff;
     border: 1px solid #bfbfbf;
     box-sizing: border-box;
@@ -295,8 +295,8 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
@@ -307,8 +307,8 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
