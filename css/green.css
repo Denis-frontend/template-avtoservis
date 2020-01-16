@@ -75,14 +75,14 @@ h5 {
 
   i.fas,
   i.far {
-    font-size: 6vh;
+    font-size: 21px;
     color: #fff;
     background: #81BD25;
     border-radius: 100%;
-    width: 10vh;
-    height: 10vh;
+    width: 40px;
+    height: 40px;
     padding-left: 10px;
-    padding-top: 9px;
+    padding-top: 10px;
     margin-right: 6px;
   }
 
@@ -124,7 +124,7 @@ h5 {
   }
 
   li.address i {
-    padding-left: 10px;
+    padding-left: 12px;
   }
 
   .navbar {
@@ -200,12 +200,12 @@ h5 {
 
   .features__title {
     font-weight: bold;
-    font-size: 8vh;
+    font-size: 24px;
   }
 
   .features__subtitle {
     color: #4f4c4c;
-    font-size: 6vh;
+    font-size: 24px;
     padding-top: 5px;
   }
   /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
@@ -281,8 +281,8 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     background: #ffffff;
     border: 1px solid #bfbfbf;
     box-sizing: border-box;
@@ -295,8 +295,8 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
@@ -307,8 +307,8 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 61vh;
-    height: 57vh;
+    width: 44vh;
+    height: 36vh;
     left: 24px;
     top: 1px;
     background: #ffffff;
@@ -543,7 +543,7 @@ h5 {
   }
 
   .card__articles {
-    width: 69vh;
+    width: 280px;
     border-radius: 0;
     border: 0;
     margin: auto;
@@ -584,7 +584,7 @@ h5 {
     font-size: 18px;
     text-align: center;
     padding: 11px;
-    width: 53vh;
+    width: 213px;
     height: auto;
   }
 
@@ -616,30 +616,30 @@ h5 {
 
   .card-body__form input[type="text"],
   .card-body__form input[type="tel"] {
-    width: 65vh;
+    width: 220px;
     height: auto;
     background: #efeded;
     border: 0;
     border-radius: 15px;
-    font-size: 4vh;
-    padding: 26px 52px;
+    font-size: 11px;
+    padding: 18px 52px;
   }
 
   .form__btn {
-    width: 65vh;
-    height: 61px;
+    width: 220px;
+    height: 56px;
     background: #81BD25;
     border: 0;
     border-radius: 10px;
     color: #fff;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     margin-left: 4vh;
   }
 
   .checkbox {
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
     display: inline-block;
   }
 
@@ -668,7 +668,7 @@ h5 {
   }
 
   .footer__social i.fab {
-    font-size: 7vh;
+    font-size: 5vh;
     color: #ffffff;
   }
 
@@ -677,19 +677,19 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 6vh;
+    font-size: 4vh;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 6vh;
+    font-size: 4vh;
     color: #ffffff;
   }
 
   .footer__logo a {
-    font-size: 14px;
+    font-size: 13px;
     color: #fff;
-    padding-top: 50px;
+    padding-top: 37px;
     padding-left: 15px;
   }
 
@@ -1990,7 +1990,7 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 254.54px;
     background: #ffffff;
     border: 1px solid #bfbfbf;
@@ -2004,7 +2004,7 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 255.48px;
     left: 24px;
     top: 1px;
@@ -2016,7 +2016,7 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 255.47px;
     left: 24px;
     top: 1px;
@@ -2343,6 +2343,7 @@ h5 {
     border-radius: 0;
     border: 0;
     margin: auto;
+    margin-bottom: 30px;
     padding-right: 10px;
     padding-left: 10px;
   }
@@ -2371,7 +2372,7 @@ h5 {
   }
 
   .articles__btn {
-    margin-left: 57px;
+    margin: auto;
     margin-bottom: 20px;
     display: block;
     background: #81BD25;
@@ -2441,7 +2442,7 @@ h5 {
 
   .checkbox {
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 10vh;
     margin-right: 400px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -2453,7 +2454,7 @@ h5 {
 
   .footer__social p {
     font-weight: 500;
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
     margin-top: 52px;
     margin-bottom: 32px;
@@ -2468,7 +2469,7 @@ h5 {
   }
 
   .footer__social i.fab {
-    font-size: 9vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
@@ -2477,17 +2478,17 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
   .footer__logo a {
-    font-size: 21px;
+    font-size: 5vh;
     color: #fff;
     padding-top: 50px;
     padding-left: 15px;
@@ -2564,7 +2565,6 @@ h5 {
 
   .card-body {
     padding: 0px;
-    margin-bottom: 10vh;
   }
 
   .card-title__form {
@@ -3890,7 +3890,7 @@ h5 {
   }
 
   .our-works__block {
-    margin-left: 15px;
+    margin-left: 23px;
     margin-bottom: 50px;
   }
 
@@ -3918,7 +3918,7 @@ h5 {
     text-align: center;
     margin-top: 3px;
     padding: 10px;
-    width: 225;
+    width: 210px;
   }
 
   .our-works_btn:hover {
