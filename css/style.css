@@ -75,7 +75,7 @@ h5 {
 
   i.fas,
   i.far {
-    ont-size: 3vh;
+    font-size: 3vh;
     color: #fff;
     background: #46b1d0;
     border-radius: 100%;
@@ -124,7 +124,7 @@ h5 {
   }
 
   li.address i {
-    padding-left: 10px;
+    padding-left: 7px;
   }
 
   .navbar {
@@ -200,12 +200,12 @@ h5 {
 
   .features__title {
     font-weight: bold;
-    font-size: 5vh;
+    font-size: 24px;
   }
 
   .features__subtitle {
     color: #4f4c4c;
-    font-size: 4vh;
+    font-size: 24px;
     padding-top: 5px;
   }
   /* \\\\\\\\\\\\\\\\\ Наши услуги \\\\\\\\\\\\\\\\\\\\\\ */
@@ -616,23 +616,23 @@ h5 {
 
   .card-body__form input[type="text"],
   .card-body__form input[type="tel"] {
-    width: 65vh;
+    width: 220px;
     height: auto;
     background: #efeded;
     border: 0;
     border-radius: 15px;
-    font-size: 2vh;
+    font-size: 11px;
     padding: 18px 52px;
   }
 
   .form__btn {
-    width: 37vh;
-    height: 61px;
+    width: 220px;
+    height: 56px;
     background: #46b1d0;
     border: 0;
     border-radius: 10px;
     color: #fff;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     margin-left: 4vh;
   }
@@ -1990,7 +1990,7 @@ h5 {
 
   .bg__img__gallery__one {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 254.54px;
     background: #ffffff;
     border: 1px solid #bfbfbf;
@@ -2004,7 +2004,7 @@ h5 {
 
   .bg__img__gallery__two {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 255.48px;
     left: 24px;
     top: 1px;
@@ -2016,7 +2016,7 @@ h5 {
   }
   .bg__img__gallery__three {
     position: absolute;
-    width: 65vh;
+    width: 300px;
     height: 255.47px;
     left: 24px;
     top: 1px;
@@ -2343,6 +2343,7 @@ h5 {
     border-radius: 0;
     border: 0;
     margin: auto;
+    margin-bottom: 30px;
     padding-right: 10px;
     padding-left: 10px;
   }
@@ -2371,7 +2372,7 @@ h5 {
   }
 
   .articles__btn {
-    margin-left: 57px;
+    margin: auto;
     margin-bottom: 20px;
     display: block;
     background: #46b1d0;
@@ -2441,7 +2442,7 @@ h5 {
 
   .checkbox {
     margin-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 10vh;
     margin-right: 400px;
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
@@ -2453,7 +2454,7 @@ h5 {
 
   .footer__social p {
     font-weight: 500;
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
     margin-top: 52px;
     margin-bottom: 32px;
@@ -2468,7 +2469,7 @@ h5 {
   }
 
   .footer__social i.fab {
-    font-size: 9vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
@@ -2477,17 +2478,17 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
   .footer__address ul li a {
-    font-size: 7vh;
+    font-size: 24px;
     color: #ffffff;
   }
 
   .footer__logo a {
-    font-size: 21px;
+    font-size: 5vh;
     color: #fff;
     padding-top: 50px;
     padding-left: 15px;
@@ -2564,7 +2565,6 @@ h5 {
 
   .card-body {
     padding: 0px;
-    margin-bottom: 10vh;
   }
 
   .card-title__form {
