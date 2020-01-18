@@ -60,13 +60,16 @@ h5 {
   a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-green.png);
-    width: 100%;
+    width: 80px;
     height: 70px;
     background-repeat: no-repeat;
   }
 
   .logo {
     padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    display: flex;
   }
 
   .logo a img {
@@ -279,6 +282,30 @@ h5 {
     padding-left: 16px;
   }
 
+  .wrap__number {
+    position: absolute;
+    width: 41.97px;
+    height: 41.94px;
+    left: 248px;
+    bottom: 278px;
+    background: #81BD25;
+    z-index: 999;
+    border-radius: 100%;
+  }
+
+  .number {
+    position: absolute;
+    width: 35.98px;
+    height: 30.96px;
+    left: 14px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    color: #fff;
+  }
   .bg__img__gallery__one {
     position: absolute;
     width: 249px;
@@ -354,7 +381,7 @@ h5 {
   .wrap__img__min {
     display: inline;
     padding-left: 1px;
-}
+  }
   .img__min {
     margin-left: 29px;
     margin-top: 10px;
@@ -532,7 +559,7 @@ h5 {
 
   .our-works-text-center {
     text-align: center;
-}
+  }
   /* \\\\\\\\\\\\\ статьи \\\\\\\\\\\\\\\\\\ */
   .wrap__articles {
     padding-bottom: 50px;
@@ -789,7 +816,6 @@ h5 {
     margin-bottom: 10vh;
   }
 
-
   /*\\\\\\\\\\\\\ landing \\\\\\\\\\\ */
 
   .landing__img {
@@ -934,13 +960,16 @@ h5 {
   a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-green.png);
-    width: 100%;
+    width: 80px;
     height: 70px;
     background-repeat: no-repeat;
   }
 
   .logo {
     padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    display: flex;
   }
 
   .logo a img {
@@ -1109,6 +1138,31 @@ h5 {
     font-size: 24px;
     color: #4f4c4c;
     padding-left: 16px;
+  }
+
+  .wrap__number {
+    position: absolute;
+    width: 41.97px;
+    height: 41.94px;
+    left: 303px;
+    bottom: 276px;
+    background: #81BD25;
+    z-index: 999;
+    border-radius: 100%;
+  }
+
+  .number {
+    position: absolute;
+    width: 35.98px;
+    height: 30.96px;
+    left: 14px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    color: #fff;
   }
 
   .bg__img__gallery__one {
@@ -1806,13 +1860,16 @@ h5 {
   a.navbar-brand {
     margin: 0;
     background-image: url(../img/logo-green.png);
-    width: 100%;
+    width: 80px;
     height: 70px;
     background-repeat: no-repeat;
   }
 
   .logo {
     padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    display: flex;
   }
 
   .logo a img {
@@ -1986,6 +2043,31 @@ h5 {
     font-size: 24px;
     color: #4f4c4c;
     padding-left: 16px;
+  }
+
+  .wrap__number {
+    position: absolute;
+    width: 41.97px;
+    height: 41.94px;
+    left: 303px;
+    bottom: 276px;
+    background: #81BD25;
+    z-index: 999;
+    border-radius: 100%;
+  }
+
+  .number {
+    position: absolute;
+    width: 35.98px;
+    height: 30.96px;
+    left: 14px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    color: #fff;
   }
 
   .bg__img__gallery__one {
@@ -2723,6 +2805,14 @@ h5 {
     padding-left: 24px;
   }
 
+  li.address {
+    padding-left: 76px;
+  }
+
+  li.mail {
+    padding-left: 40px;
+  }
+
   li.search {
     padding: 0;
     margin-left: 52px;
@@ -2853,6 +2943,31 @@ h5 {
     padding-left: 16px;
   }
 
+  .wrap__number {
+    position: absolute;
+    width: 41.97px;
+    height: 41.94px;
+    left: 270px;
+    bottom: 276px;
+    background: #81BD25;
+    z-index: 999;
+    border-radius: 100%;
+  }
+
+  .number {
+    position: absolute;
+    width: 35.98px;
+    height: 30.96px;
+    left: 14px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    color: #fff;
+  }
+
   .bg__img__gallery__one {
     position: absolute;
     width: 65vh;
@@ -2978,7 +3093,7 @@ h5 {
     font-weight: bold;
     font-size: 36px;
     color: #f2c877;
-    display:inline-block;
+    display: inline-block;
   }
 
   .price__btn {
@@ -3354,10 +3469,9 @@ h5 {
     color: #ffffff;
   }
 
-    a.footer-tel {
-      margin-left: 24px;
+  a.footer-tel {
+    margin-left: 24px;
   }
- 
 
   .footer__logo a {
     font-size: 13px;
@@ -3588,6 +3702,14 @@ h5 {
     font-size: 21px;
     color: #232323;
     padding-right: 1px;
+  }
+
+  li.address {
+    padding-left: 76px;
+  }
+
+  li.mail {
+    padding-left: 40px;
   }
 
   ul li.name__company {
@@ -4110,7 +4232,7 @@ h5 {
 
   .footer__social p {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
     color: #ffffff;
     margin-top: 52px;
     margin-bottom: 32px;
@@ -4135,18 +4257,24 @@ h5 {
   }
 
   .footer__address ul li {
-    font-size: 17px;
+    font-size: 18px;
     color: #ffffff;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
   }
 
   .footer__address ul li a {
     font-size: 18px;
     color: #ffffff;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
   }
 
   a.footer-tel {
     margin-left: 33px;
-}
+  }
 
   .footer__logo a {
     font-size: 13px;
@@ -4290,6 +4418,33 @@ h5 {
     font-size: 24px;
     color: #4f4c4c;
     padding-left: 16px;
+  }
+
+  .wrap__number {
+    position: absolute;
+    width: 41.97px;
+    height: 41.94px;
+    left: 316px;
+    bottom: 276px;
+    background: #81BD25;
+    z-index: 999;
+    border-radius: 100%;
+  }
+
+  .number {
+    position: absolute;
+    width: 35.98px;
+    height: 30.96px;
+    left: 2px;
+    top: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    text-align: center;
+    letter-spacing: -0.04em;
+    color: #ffffff;
   }
 
   .bg__img__gallery__one {
