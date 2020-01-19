@@ -41,11 +41,11 @@ h5 {
   }
 
   a:not([href]):not([tabindex]) {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   a:not([href]):not([tabindex]):hover {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
@@ -59,7 +59,7 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
-    background-image: url(../img/logo-red.png);
+    background-image: url(../img/logo-yellow.png);
     width: 80px;
     height: 70px;
     background-repeat: no-repeat;
@@ -80,7 +80,7 @@ h5 {
   i.far {
     font-size: 21px;
     color: #fff;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 100%;
     width: 40px;
     height: 40px;
@@ -135,7 +135,7 @@ h5 {
   }
 
   .nav-bg {
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
   }
 
@@ -288,7 +288,7 @@ h5 {
     height: 41.94px;
     left: 248px;
     bottom: 278px;
-    background: #EB5757;
+    background: #F2C94C;
     z-index: 999;
     border-radius: 100%;
   }
@@ -370,7 +370,7 @@ h5 {
   .measure__btn {
     width: 272px;
     height: 62px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     color: #fff;
     font-size: 18px;
@@ -439,7 +439,7 @@ h5 {
   }
 
   .price__btn {
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -489,7 +489,7 @@ h5 {
     height: 50px;
     left: -20px;
     top: 0px;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
     position: absolute;
   }
@@ -500,7 +500,7 @@ h5 {
   }
   .our-works_btn_slider {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -541,7 +541,7 @@ h5 {
 
   .our-works_btn {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -604,7 +604,7 @@ h5 {
     margin-left: 30px;
     margin-bottom: 40px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -655,7 +655,7 @@ h5 {
   .form__btn {
     width: 220px;
     height: 56px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -672,7 +672,7 @@ h5 {
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
-    background: #EB5757;
+    background: #F2C94C;
     width: 100%;
     height: 100%;
   }
@@ -763,7 +763,7 @@ h5 {
     font-size: 40px;
     font-weight: 900;
     line-height: 1;
-    color: #EB5757;
+    color: #F2C94C;
     opacity: 0.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -845,7 +845,7 @@ h5 {
     max-width: 382px;
     height: auto;
     background: #ededed;
-    border: 1px solid #EB5757;
+    border: 1px solid #F2C94C;
     box-sizing: border-box;
     border-radius: 10px;
     margin: 20px auto;
@@ -902,7 +902,7 @@ h5 {
     height: 33.08px;
     margin-left: 5vh;
     margin-bottom: 5vh;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -941,11 +941,11 @@ h5 {
   }
 
   a:not([href]):not([tabindex]) {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   a:not([href]):not([tabindex]):hover {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
@@ -959,7 +959,7 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
-    background-image: url(../img/logo-red.png);
+    background-image: url(../img/logo-yellow.png);
     width: 80px;
     height: 70px;
     background-repeat: no-repeat;
@@ -980,7 +980,7 @@ h5 {
   i.far {
     font-size: 30px;
     color: #fff;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 100%;
     width: 60px;
     height: 60px;
@@ -1035,7 +1035,7 @@ h5 {
   }
 
   .nav-bg {
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
   }
 
@@ -1146,7 +1146,7 @@ h5 {
     height: 41.94px;
     left: 303px;
     bottom: 276px;
-    background: #EB5757;
+    background: #F2C94C;
     z-index: 999;
     border-radius: 100%;
   }
@@ -1229,7 +1229,7 @@ h5 {
   .measure__btn {
     width: 272px;
     height: 62px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     color: #fff;
     font-size: 18px;
@@ -1295,7 +1295,7 @@ h5 {
   }
 
   .price__btn {
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1346,7 +1346,7 @@ h5 {
     height: 50px;
     left: -20px;
     top: 0px;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
     position: absolute;
   }
@@ -1357,7 +1357,7 @@ h5 {
   }
   .our-works_btn_slider {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1398,7 +1398,7 @@ h5 {
 
   .our-works_btn {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1490,7 +1490,7 @@ h5 {
     font-size: 40px;
     font-weight: 900;
     line-height: 1;
-    color: #EB5757;
+    color: #F2C94C;
     opacity: 0.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -1560,7 +1560,7 @@ h5 {
     margin-left: 16vh;
     margin-bottom: 40px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1616,7 +1616,7 @@ h5 {
   .form__btn {
     width: 460px;
     height: 61px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1633,7 +1633,7 @@ h5 {
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
-    background: #EB5757;
+    background: #F2C94C;
     width: 100%;
     height: 100%;
   }
@@ -1744,7 +1744,7 @@ h5 {
     width: 382px;
     height: 382px;
     background: #ededed;
-    border: 1px solid #EB5757;
+    border: 1px solid #F2C94C;
     box-sizing: border-box;
     border-radius: 10px;
     margin: 20px auto;
@@ -1802,7 +1802,7 @@ h5 {
     height: 33.08px;
     left: 110px;
     bottom: -20px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -1841,11 +1841,11 @@ h5 {
   }
 
   a:not([href]):not([tabindex]) {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   a:not([href]):not([tabindex]):hover {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
@@ -1859,7 +1859,7 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
-    background-image: url(../img/logo-red.png);
+    background-image: url(../img/logo-yellow.png);
     width: 80px;
     height: 70px;
     background-repeat: no-repeat;
@@ -1880,7 +1880,7 @@ h5 {
   i.far {
     font-size: 30px;
     color: #fff;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 100%;
     width: 60px;
     height: 60px;
@@ -1935,7 +1935,7 @@ h5 {
   }
 
   .nav-bg {
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
   }
 
@@ -2051,7 +2051,7 @@ h5 {
     height: 41.94px;
     left: 303px;
     bottom: 276px;
-    background: #EB5757;
+    background: #F2C94C;
     z-index: 999;
     border-radius: 100%;
   }
@@ -2134,7 +2134,7 @@ h5 {
   .measure__btn {
     width: 272px;
     height: 62px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     color: #fff;
     font-size: 18px;
@@ -2200,7 +2200,7 @@ h5 {
 
   .price__btn {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2250,7 +2250,7 @@ h5 {
     height: 50px;
     left: -20px;
     top: 0px;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
     position: absolute;
   }
@@ -2261,7 +2261,7 @@ h5 {
   }
   .our-works_btn_slider {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2301,7 +2301,7 @@ h5 {
 
   .our-works_btn {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2388,7 +2388,7 @@ h5 {
     font-size: 40px;
     font-weight: 900;
     line-height: 1;
-    color: #EB5757;
+    color: #F2C94C;
     opacity: 0.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -2457,7 +2457,7 @@ h5 {
     margin: auto;
     margin-bottom: 20px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2512,7 +2512,7 @@ h5 {
   .form__btn {
     width: 261px;
     height: 61px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2529,7 +2529,7 @@ h5 {
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
-    background: #EB5757;
+    background: #F2C94C;
     width: 100%;
     height: 100%;
   }
@@ -2639,7 +2639,7 @@ h5 {
     width: 382px;
     height: 382px;
     background: #ededed;
-    border: 1px solid #EB5757;
+    border: 1px solid #F2C94C;
     box-sizing: border-box;
     border-radius: 10px;
     margin: 20px auto;
@@ -2704,7 +2704,7 @@ h5 {
     height: 33.08px;
     left: 110px;
     bottom: -20px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -2743,11 +2743,11 @@ h5 {
   }
 
   a:not([href]):not([tabindex]) {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   a:not([href]):not([tabindex]):hover {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
@@ -2763,7 +2763,7 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
-    background-image: url(../img/logo-red.png);
+    background-image: url(../img/logo-yellow.png);
     width: 80px;
     height: 70px;
     background-repeat: no-repeat;
@@ -2777,7 +2777,7 @@ h5 {
   i.far {
     font-size: 15px;
     color: #fff;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 100%;
     width: 30px;
     height: 30px;
@@ -2841,7 +2841,7 @@ h5 {
   }
 
   .nav-bg {
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
   }
 
@@ -2949,7 +2949,7 @@ h5 {
     height: 41.94px;
     left: 270px;
     bottom: 276px;
-    background: #EB5757;
+    background: #F2C94C;
     z-index: 999;
     border-radius: 100%;
   }
@@ -3033,7 +3033,7 @@ h5 {
   .measure__btn {
     width: 272px;
     height: 62px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     color: #fff;
     font-size: 18px;
@@ -3099,7 +3099,7 @@ h5 {
   .price__btn {
     width: 227px;
     height: 49px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3146,7 +3146,7 @@ h5 {
     height: 50px;
     left: -20px;
     top: 0px;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
     position: absolute;
   }
@@ -3157,7 +3157,7 @@ h5 {
   }
   .our-works_btn_slider {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3198,7 +3198,7 @@ h5 {
   .our-works_btn {
     width: 200px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3284,7 +3284,7 @@ h5 {
     font-size: 40px;
     font-weight: 900;
     line-height: 1;
-    color: #EB5757;
+    color: #F2C94C;
     opacity: 0.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -3352,7 +3352,7 @@ h5 {
     margin-left: 25px;
     margin-bottom: 20px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3413,7 +3413,7 @@ h5 {
   .form__btn {
     width: 261px;
     height: 61px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3428,7 +3428,7 @@ h5 {
   }
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
-    background: #EB5757;
+    background: #F2C94C;
     width: 100%;
     height: 100%;
   }
@@ -3543,7 +3543,7 @@ h5 {
     width: 382px;
     height: 382px;
     background: #ededed;
-    border: 1px solid #EB5757;
+    border: 1px solid #F2C94C;
     box-sizing: border-box;
     border-radius: 10px;
     margin-left: 8px;
@@ -3609,7 +3609,7 @@ h5 {
     height: 33.08px;
     left: 110px;
     bottom: -20px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3647,11 +3647,11 @@ h5 {
   }
 
   a:not([href]):not([tabindex]) {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   a:not([href]):not([tabindex]):hover {
-    color: #EB5757;
+    color: #F2C94C;
   }
 
   /* \\\\\\\\\\\\\header\\\\\\\\\\\\\\ */
@@ -3666,7 +3666,7 @@ h5 {
   }
   a.navbar-brand {
     margin: 0;
-    background-image: url(../img/logo-red.png);
+    background-image: url(../img/logo-yellow.png);
     width: 80px;
     height: 70px;
     background-repeat: no-repeat;
@@ -3680,7 +3680,7 @@ h5 {
   i.far {
     font-size: 15px;
     color: #fff;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 100%;
     width: 30px;
     height: 30px;
@@ -3743,7 +3743,7 @@ h5 {
   }
 
   .nav-bg {
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
   }
 
@@ -3820,7 +3820,7 @@ h5 {
     width: 382px;
     height: 382px;
     background: #ededed;
-    border: 1px solid #EB5757;
+    border: 1px solid #F2C94C;
     box-sizing: border-box;
     border-radius: 10px;
     margin-left: 62px;
@@ -3886,7 +3886,7 @@ h5 {
     height: 33.08px;
     left: 110px;
     bottom: -20px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -3917,7 +3917,7 @@ h5 {
   .measure__btn {
     width: 272px;
     height: 62px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     color: #fff;
     font-size: 18px;
@@ -3981,7 +3981,7 @@ h5 {
     height: 50px;
     left: -20px;
     top: 0px;
-    background: #EB5757;
+    background: #F2C94C;
     border-radius: 10px;
     position: absolute;
   }
@@ -3992,7 +3992,7 @@ h5 {
   }
   .our-works_btn_slider {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -4032,7 +4032,7 @@ h5 {
 
   .our-works_btn {
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -4083,7 +4083,7 @@ h5 {
     font-size: 40px;
     font-weight: 900;
     line-height: 1;
-    color: #EB5757;
+    color: #F2C94C;
     opacity: 0.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -4152,7 +4152,7 @@ h5 {
     margin-left: 30px;
     margin-bottom: 41px;
     display: block;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -4210,7 +4210,7 @@ h5 {
   .form__btn {
     width: 330px;
     height: 61px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -4225,7 +4225,7 @@ h5 {
 
   /* \\\\\\\\\\\\\\ footer \\\\\\\\\\ */
   footer {
-    background: #EB5757;
+    background: #F2C94C;
     width: 100%;
     height: 100%;
   }
@@ -4372,7 +4372,7 @@ h5 {
   .price__btn {
     width: 249px;
     height: 49px;
-    background: #EB5757;
+    background: #F2C94C;
     border: 0;
     border-radius: 10px;
     color: #fff;
@@ -4426,7 +4426,7 @@ h5 {
     height: 41.94px;
     left: 316px;
     bottom: 276px;
-    background: #EB5757;
+    background: #F2C94C;
     z-index: 999;
     border-radius: 100%;
   }

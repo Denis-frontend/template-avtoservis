@@ -1,3 +1,11 @@
+function style(){
+  document.getElementById('css').setAttribute('href', 'css/style.css');
+}
+
+function yellow(){
+  document.getElementById('css').setAttribute('href', 'css/yellow.css');
+}
+
 function green(){
   document.getElementById('css').setAttribute('href', 'css/green.css');
 }
