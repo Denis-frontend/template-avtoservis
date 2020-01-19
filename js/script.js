@@ -1,5 +1,5 @@
-function style(){
-  document.getElementById('css').setAttribute('href', 'css/style.css');
+function cerulean(){
+  document.getElementById('css').setAttribute('href', 'css/cerulean.css');
 }
 
 function yellow(){
