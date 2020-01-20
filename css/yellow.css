@@ -4312,6 +4312,10 @@ h5 {
     padding-bottom: 20px;
     text-align: center;
   }
+
+  .wrap__company{
+    overflow: hidden;
+  }
   /*\\\\\\\\\\\\ наши работы \\\\\\\\\ */
 
   .img__min {
